@@ -40,12 +40,12 @@ This Power BI project focuses on analyzing the financial performance of a compan
 - **Top-Selling Product**: "Paeso" is the highest-selling product in the company.
 
 ## Screenshots
-![Dashboard Screenshot](./images/dashboard.png)
+![Dashboard Screenshot](./Financial1.png),(Financial2.png)
 
 ## How to Use
 1. Download the `.pbix` file.
 2. Open it in Power BI Desktop.
 3. Explore the dashboard and interact with slicers for `Country`, `Segment`, `Product`, `Discount Band`, and `Date`.
 
-## License
-This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
+## Acknowledgments
+This project was completed as part of the PowerBI Beginner to advance on Udemy. Special thanks to the Instructor for the guidance.
